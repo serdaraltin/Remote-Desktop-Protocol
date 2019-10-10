@@ -1,0 +1,14 @@
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\bin\Debug\Uzak Masaüstü Bağlantısı.exe.config
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak Masaüstü Bağlantısı.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Interop.MSTSCLib.dll
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\AxInterop.MSTSCLib.dll
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak Masaüstü Bağlantısı.csproj.ResolveComReference.cache
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak_Masaüstü_Bağlantısı.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak_Masaüstü_Bağlantısı.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak Masaüstü Bağlantısı.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\bin\Debug\Uzak Masaüstü Bağlantısı.exe
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\bin\Debug\Uzak Masaüstü Bağlantısı.pdb
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\bin\Debug\Interop.MSTSCLib.dll
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\bin\Debug\AxInterop.MSTSCLib.dll
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak Masaüstü Bağlantısı.exe
+c:\users\main\documents\visual studio 2010\Projects\Uzak Masaüstü Bağlantısı\Uzak Masaüstü Bağlantısı\obj\x86\Debug\Uzak Masaüstü Bağlantısı.pdb
